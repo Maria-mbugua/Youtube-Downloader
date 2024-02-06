@@ -16,6 +16,8 @@ A simple YouTube downloader GUI application using Python, Tkinter, and Pytube.
 ## Overview
 
 This Python application provides a graphical user interface for downloading YouTube videos. It utilizes the Tkinter library for the GUI, and Pytube for handling YouTube video downloads. The user can input a YouTube video URL, select the desired resolution, and download the video to the specified directory.
+[YouTube Tutorial](https://www.youtube.com/watch?v=0hEmxOEeVO0)
+
 
 ## Installation
 
